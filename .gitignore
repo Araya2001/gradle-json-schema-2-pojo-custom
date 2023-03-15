@@ -40,3 +40,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/src/main/resources/json/**
+!/src/main/resources/json/example.json
